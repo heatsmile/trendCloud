@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: index-codes-service
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8761/eureka/
+zipkin:
+  base-url: http://127.0.0.1:9411
+
