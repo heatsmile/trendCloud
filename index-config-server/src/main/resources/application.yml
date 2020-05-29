@@ -6,7 +6,7 @@ spring:
       label: master
       server:
         git:
-          uri: https://github.com/heatsmile/springcloudConfig
+          uri: https://github.com/heatsmile/trendConfig
           search-paths: respo
 eureka:
   client:
